@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "tokens": [
     {
       "id": 1,
       "title": "hello"
@@ -10,7 +10,7 @@
   }
 }
 {
-  "posts": [
+  "tokens": [
     {
       "id": 2,
       "title": "hello"
@@ -21,7 +21,7 @@
   }
 }
 {
-  "posts": [
+  "tokens": [
     {
       "id": 3,
       "title": "hello"
