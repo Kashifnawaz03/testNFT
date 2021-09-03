@@ -1,29 +1,7 @@
 {
-  "tokens": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-{
-  "tokens": [
-    {
-      "id": 2,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-{
-  "tokens": [
-    {
-      "id": 3,
       "title": "hello"
     }
   ],
